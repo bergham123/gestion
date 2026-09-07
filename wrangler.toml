@@ -1,0 +1,9 @@
+# wrangler.toml
+name = "gestion"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+GITHUB_OWNER = "bergham123"
+GITHUB_REPO = "gestion"
+# GITHUB_TOKEN = "ghp_xxxxxxxxxxxxxxxxxxxx"  # ستنشئه في Cloudflare Dashboard
